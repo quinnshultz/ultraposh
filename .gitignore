@@ -1,0 +1,8 @@
+# Program executable
+ultraposh
+
+# C Object Files
+*.o
+
+# C Libraries
+*.a
