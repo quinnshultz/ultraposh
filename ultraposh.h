@@ -14,7 +14,11 @@
 #define MAXLINE 4096
 
 /* Global variables */
+int fdcounter;
+int *inputFD;
+int *outputFD;
 char *buff;
+char ***segarray;
 char cwd[BUFSIZE];
 
 /* Function prototypes */
