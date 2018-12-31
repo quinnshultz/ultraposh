@@ -1,11 +1,11 @@
-## NAME
-	ultraposh -- a simple shell
+# Ultraposh
+A simple shell.
 
-## SYNOPSIS
-	./ultraposh
+## Synopsis
+./ultraposh
 
 ## DESCRIPTION
-	**Ultraposh** is a command language interpreter that executes commands on the host operating system read from the 	standard input.
+**Ultraposh** is a command language interpreter that executes commands on the host operating system read from the 	standard input.
 
 ## BUILT-IN COMMANDS
 	cd <path>	Changes the current working directory.
@@ -18,4 +18,4 @@
 	exit		Closes the shell.
 
 ## AUTHOR
-	Written by Quinn Shultz.
+Written by Quinn Shultz.
