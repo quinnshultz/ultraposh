@@ -1,13 +1,13 @@
-##NAME
+## NAME
 	ultraposh -- a simple shell
 
-##SYNOPSIS
+## SYNOPSIS
 	./ultraposh
 
-##DESCRIPTION
-	**Ultraposh** is a command language interpreter that executes commands on the host 		operating system read from the standard input.
+## DESCRIPTION
+	**Ultraposh** is a command language interpreter that executes commands on the host operating system read from the 	standard input.
 
-##BUILT-IN COMMANDS
+## BUILT-IN COMMANDS
 	cd <path>	Changes the current working directory.
 
 	help <cmdname>	Shows help for an internal command, or prints smash help screen if
@@ -17,5 +17,5 @@
 
 	exit		Closes the shell.
 
-##AUTHOR
+## AUTHOR
 	Written by Quinn Shultz.
